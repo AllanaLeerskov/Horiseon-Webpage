@@ -9,8 +9,6 @@ Present Horiseon's information in an easy to navigate, concise webpage
 
 ## Snapshot of Webpage
 
-    [Horiseon Webpage Snapshot](./assets/images/screen-shot.png)
-=======
 ![Webpage Snapshot](assets/images/screen-shot.png)
 
 
