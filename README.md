@@ -9,7 +9,7 @@ Present Horiseon's information in an easy to navigate, concise webpage
 
 ## Snapshot of Webpage
 
-![Webpage Snapshot](/assets/images/screen-shot.png)
+![Webpage Snapshot](assets/images/screen-shot.png)
 
 ## Link to Live Page
 
