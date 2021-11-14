@@ -1,4 +1,16 @@
-Horiseon Social Media Marketing
 
+# Horiseon Social Media Consulting Webpage
 
-Organize HTML and CSS pages in a consolidated, accessible fashion. Added alt tags to each image to improve user interaction and accessibility. Section comments added to break up HTML code and prevent "div soup". Multiple styles condensed to single classes in order to prevent repetitive CSS coding. Overall readability and usage enhanced.
+## About the Project
+
+Cleanup and organize HTML and CSS documents to create clean, easy to read code.
+
+Present Horiseon's information in an easy to navigate, concise webpage
+
+## Snapshot of Webpage
+
+    ![Horiseon Webpage Snapshot](/assets/images/screen-shot.jpg)
+
+## Link to Live Page
+
+[Horiseon Webpage](https://allanaleerskov.github.io/Horiseon-Webpage/)
